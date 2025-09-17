@@ -1,49 +1,22 @@
-# Personal Website Starter Code
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
+# Personality Quiz Website
+### Overview
+This website shows you whether you have a personality of the snack Peanut Buttur Brownie, or the snack mango smoohtie, by answering three simple questions about your daily life. THis isa fun websie that connects emotions with food. I built this website to make people happy through food no matter which personality they are. This was built as a project for my girls who code summer camp.
 
-This is a place for you to start building your personal website!
+### Feature
+- It has fun purple background.
+- It has 3 simple interactive questions.
+- It gives 2 option for each question.
+- All the 6 options is diaplayed as buttons.
+- Just one click over the button will calcute the result.
 
-### Project Requirements
-Your project should:
-- Include one home HTML page that's all about you!
-- Include a navigation bar that is included on all your website's pages.
-- Include one portfolio HTML page to showcase your projects.
-- Have all text, image(s), links, and/or videos on the page contained within appropriate HTML elements.
-- Include alt text for every image in your website.
-- Apply styles to text, image, and navigation bar elements using CSS rules.
-- Use classes and/or IDs to style CSS elements.
+### File overview 
+-index.html>> The content of the website
+-style.css>> Renders the style elments of the website
+-script.js>> Gives FUnctionality, and Calculates the personality.
 
-### Extensions
-You can extend your project further by:
-- Customizing the fonts.
-- Adding some fancy CSS styles.
-- Embedding YouTube videos.
-- Adding another page or more content.
-
-
-### Image Attributions
-*Tell us where you found the image you are using! Make sure it is in the public domain, has a license that allows you to use it, or is one you took on your own. Check out [archive.org](https://archive.org/), [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), or [Burst](https://burst.shopify.com/) for free, uncopyrighted images.*
-- Ada Lovelace Image on index.html: Alfred Edward Chalon / Public domain 
-- Ada Lovelace Program Image on portfolio.html: Ada Lovelace / Public domain
-- The Analytical Engine portfolio.html: Science Museum London / Science and Society Picture Library / CC BY-SA [https://creativecommons.org/licenses/by-sa/2.0]()
-- Portfolio Header Background Code Image from Pixabay [Image Link](https://pixabay.com/vectors/background-the-background-1086840/)
-
----
-
-## File Overview
-
-### ← README.md
-
-That's this file. This is the place to tell people more about what your website does and how you built it. 
-
-### ← index.html
-
-HTML files are for content! Add your text, images, buttons, and more using HTML tags.
-
-### ← style.css
-
-CSS files add styling rules to your content like changing colors and fonts. 
-
-### ← script.js
+### Struggles and Learning 
+I struggled to connect the js file with the html. I learnt how it works in the background of websites other than what we see through our eyes.
 
 JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
 
