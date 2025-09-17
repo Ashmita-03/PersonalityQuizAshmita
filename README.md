@@ -16,7 +16,7 @@ This website shows you whether you have a personality of the snack Peanut Buttur
 - script.js>> Gives FUnctionality, and Calculates the personality.
 
 ### Struggles and Learning 
-I struggled to connect the js file with the html. I learnt how it works in the background of websites other than what we see through our eyes.
+I struggled to connect the js file with the html. I learnt how it works in the background of websites other than what we see through our eyes. This was my first time combining all three languages- html, css and javascript. Eventhoough that was new to me I learnt it well eventually.
 
 ### Preview
 <img src="blob:chrome-untrusted://media-app/f6beeaa2-bf09-4a60-ae1c-8de8f3ec9f40"/><img width="1146" height="592" alt="image" src="https://github.com/user-attachments/assets/698acce6-0ca2-4ab1-9512-adda65b72262" />
