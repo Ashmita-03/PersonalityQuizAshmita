@@ -11,9 +11,9 @@ This website shows you whether you have a personality of the snack Peanut Buttur
 - Just one click over the button will calcute the result.
 
 ### File overview 
--index.html>> The content of the website
--style.css>> Renders the style elments of the website
--script.js>> Gives FUnctionality, and Calculates the personality.
+- index.html>> The content of the website
+- style.css>> Renders the style elments of the website
+- script.js>> Gives FUnctionality, and Calculates the personality.
 
 ### Struggles and Learning 
 I struggled to connect the js file with the html. I learnt how it works in the background of websites other than what we see through our eyes.
